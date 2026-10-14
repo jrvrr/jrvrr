@@ -3,13 +3,10 @@
 <div align="center">
   <h1>¡Hola! Soy Jerry </h1>
   <h3>Desarrollador Web · React · Next.js · TypeScript · Node.js</h3>
-  <p>
-    Estudiante de Ingeniería en Desarrollo y Gestión de Software en la
-    Universidad Tecnológica del Centro de Veracruz (UTCV).
-  </p>
+ 
   <p>
     <a href="https://github.com/jrvrr"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-jrvrr-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-    <a href="mailto:moralesriveraj10@gmail.com"><img alt="Correo electrónico" src="https://img.shields.io/badge/Email-Contacto-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="mailto:jerrymoralesrivera@gmail.com"><img alt="Correo electrónico" src="https://img.shields.io/badge/Email-Contacto-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   </p>
 </div>
 
@@ -99,6 +96,6 @@ Panel web del proyecto TICO, enfocado en el seguimiento de actividades dentro de
 ###  Contacto
 
 <div align="center">
-  <a href="mailto:moralesriveraj10@gmail.com"><img src="https://img.shields.io/badge/Correo-Escríbeme-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar correo" /></a>
+  <a href="mailto:jerrymoralesrivera@gmail.com"><img src="https://img.shields.io/badge/Correo-Escríbeme-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar correo" /></a>
   <a href="https://github.com/jrvrr"><img src="https://img.shields.io/badge/GitHub-Sígueme-181717?style=for-the-badge&logo=github&logoColor=white" alt="Abrir GitHub" /></a>
 </div>

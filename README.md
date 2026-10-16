@@ -1,5 +1,4 @@
 <!-- README de perfil: https://github.com/jrvrr -->
-
 <div align="center">
   <h1>¡Hola! Soy Jerry </h1>
   <h3>Desarrollador Web · React · Next.js · TypeScript · Node.js</h3>
@@ -9,9 +8,7 @@
     <a href="mailto:jerrymoralesrivera@gmail.com"><img alt="Correo electrónico" src="https://img.shields.io/badge/Email-Contacto-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   </p>
 </div>
-
 ---
-
 ###  Sobre mí
 
 -  Me enfoco en el **desarrollo web full stack**, desde interfaces accesibles y responsivas hasta APIs REST y bases de datos.

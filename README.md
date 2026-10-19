@@ -71,24 +71,43 @@ Panel web del proyecto TICO, enfocado en el seguimiento de actividades dentro de
 -->
 
 
+
 ###  Mi actividad en GitHub
 
 <div align="center">
-  <img src="https://github-widgetbox.vercel.app/api/profile?username=jrvrr&data=followers,repositories,stars,commits&theme=darkmode" alt="Resumen de estadísticas de GitHub" />
-  <br />
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jrvrr&theme=radical" alt="Gráfico de actividad de GitHub" />
-  <br />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jrvrr&theme=radical" alt="Lenguajes por repositorio" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jrvrr&theme=radical" alt="Estadísticas del perfil" />
+  <img
+    src="https://github-widgetbox.vercel.app/api/profile?username=jrvrr&data=followers,repositories,stars,commits&theme=darkmode"
+    width="880"
+    alt="Mi perfil GitHub"
+  /><br /><img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jrvrr&theme=radical&bg_color=16161C&title_color=FFFFFF&text_color=E6EDF3"
+    width="850"
+    alt="Actividad de GitHub"
+  /><br /><img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jrvrr&theme=radical&bg_color=16161C&title_color=FFFFFF&text_color=E6EDF3"
+    width="425"
+    alt="Lenguajes de programación"
+  /><img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jrvrr&theme=radical&bg_color=16161C&title_color=FFFFFF&text_color=E6EDF3"
+    width="425"
+    alt="Estadísticas de GitHub"
+  />
 </div>
 
-<!-- La tarjeta de terminal depende de un servicio externo; si no carga, elimina esta sección. -->
+
+<!-- Vista de terminal -->
 <details>
-  <summary> Vista de terminal</summary>
-  <div align="center">
-    <img src="https://github-terminal-stats-card.vercel.app/api/card?username=jrvrr" alt="Terminal Dashboard de GitHub" />
-  </div>
+  <summary><strong>Vista de terminal</strong></summary>
+
+  <p align="center">
+    <img
+      src="https://github-terminal-stats-card.vercel.app/api/card?username=jrvrr&title_color=FFFFFF&text_color=FFFFFF&bg_color=16161C"
+      alt="Terminal Dashboard de GitHub"
+      width="850"
+    />
+  </p>
 </details>
+
 
 ###  Contacto
 

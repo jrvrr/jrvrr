@@ -107,6 +107,16 @@ Panel web del proyecto TICO, enfocado en el seguimiento de actividades dentro de
   </p>
 </details>
 
+ <!--grafica de contribuciones-->
+ <p align="center">
+  <img
+    src="https://ssr-contributions-svg.vercel.app/_/jrvrr?chart=3dbar&gap=0.6&scale=2&gradient=true&flatten=0&animation=mess&animation_duration=6&animation_loop=true&format=svg&weeks=50&theme=purple&widget_size=large&colors=F3FCF6,4ADE80,22C55E,16A34A,15803D,0D9488,0284C7,1D4ED8&dark=true"
+    alt="Contribution Graph"
+    width="650"
+  />
+</p>
+
+
 
 ###  Contacto
 

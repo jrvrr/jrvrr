@@ -8,8 +8,7 @@
     <a href="mailto:jerrymoralesrivera@gmail.com"><img alt="Correo electrónico" src="https://img.shields.io/badge/Email-Contacto-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   </p>
 </div>
----
-###  Sobre mí
+Sobre mí
 
 -  Me enfoco en el **desarrollo web full stack**, desde interfaces accesibles y responsivas hasta APIs REST y bases de datos.
 -  Trabajo con **React, Next.js, Angular, TypeScript, JavaScript, Node.js, Express, PostgreSQL y Supabase**.
@@ -94,7 +93,6 @@ Panel web del proyecto TICO, enfocado en el seguimiento de actividades dentro de
   />
 </div>
 
-
 <!-- Vista de terminal -->
 <details>
   <summary><strong>Vista de terminal</strong></summary>
@@ -103,7 +101,7 @@ Panel web del proyecto TICO, enfocado en el seguimiento de actividades dentro de
     <img
       src="https://github-terminal-stats-card.vercel.app/api/card?username=jrvrr&title_color=FFFFFF&text_color=FFFFFF&bg_color=16161C"
       alt="Terminal Dashboard de GitHub"
-      width="850"
+      width="650"
     />
   </p>
 </details>

@@ -85,11 +85,11 @@ Panel web del proyecto TICO, enfocado en el seguimiento de actividades dentro de
     alt="Actividad de GitHub"
   /><br /><img
     src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jrvrr&theme=radical&bg_color=16161C&title_color=FFFFFF&text_color=E6EDF3"
-    width="422"
+    width="415"
     alt="Lenguajes de programación"
   /><img
     src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jrvrr&theme=radical&bg_color=16161C&title_color=FFFFFF&text_color=E6EDF3"
-    width="422"
+    width="415"
     alt="Estadísticas de GitHub"
   />
 </div>
